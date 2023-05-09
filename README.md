@@ -75,14 +75,13 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=YosriZaghouani&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)  
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [ZaghouaniYosri](https://visitcount.itsvg.in/api?id=YosriZaghouani&label=Profile%20Views&pretty=false)
 
 Last Edited on: 29/4/2023
